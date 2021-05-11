@@ -1,8 +1,7 @@
 ## Android Team
 
-- Andrii Chernysh (Rodion Kushch)
+- Rodion Kushch
   - Credit Squad #2 (account management & payments)
-  - POC: solution owner Beatrice Liu
 - Yaroslav Ovdiienko
 - Oleksandr Kalevych
 - Miguel (Mike) Hurtado
@@ -18,8 +17,11 @@ pcy = plant your change
 pcyfa = plant your change for all
 ace = Aspiration Customer Experience, aka the Customer Support team
 
+galileo: debit card
+fis: credit card
+
 ## Squad Info
 - squad1: on boarding
-- squad2: account management for credit card
+- squad2: account management for credit card - POC: solution owner Beatrice Liu
 - squad3: transaction + reward
 - squad4: data/nalytics/alert 
