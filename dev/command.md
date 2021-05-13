@@ -16,3 +16,10 @@
 ### Java Home
 ```/usr/libexec/java_home -V```
 ```/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home```
+
+### React
+```yarn workspace signup start```
+```adb shell input keyevent 82```
+
+### Gradle API Obsolete 
+```./gradlew -Pandroid.debug.obsoleteApi=true```

@@ -3,11 +3,12 @@
 - Rodion Kushch
   - Credit Squad #2 (account management & payments)
 - Yaroslav Ovdiienko
-- Oleksandr Kalevych
 - Miguel (Mike) Hurtado
   - Credit Squad
 - Kristopher Halbert
   - Credit Squad  
+
+Mobile Product Owner: Christy Ubellacker
 
 ## Quick Def
 vgs https://www.verygoodsecurity.com/integrations/
