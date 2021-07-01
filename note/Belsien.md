@@ -1,17 +1,15 @@
 Wins:
-- Android project build time
-- Optimize CircleCI
-- Address Pentest quickly
-- Credit card are moving nice and smoothly
-- Store key-value secret correcly with local.properties
+- Android Credit
+- Working on App Logo, cleaning up 
+
 
 Oppurtunities:
-- Release manangement 
-- Crash management (GitHub issue vs Jira ticket)
-- MVVM + Unit tests (working on a demo for the new arch)
-- Appium vs UiAutomation (GitHub Action vs Firebase)
-- QA team in Uptech (need an introduction)
+- Update minSDK, drop Android 5 and 6
+- Work on MVVM example
 
 Others;
-- Don't know much about Onboarding squad
-- Understand how react-native works with native-app, but doesn't know how credit will be fitted in
+- When credit gonna launch
+
+
+
+https://softwaredevtools.com/agile-retrospectives-in-jira-confluence/
