@@ -3,10 +3,11 @@
 - Rodion Kushch
   - Credit Squad #2 (account management & payments)
 - Yaroslav Ovdiienko
+  - PYC, BAS, BPO
 - Miguel (Mike) Hurtado
-  - Credit Squad
+  - CRDT
 - Kristopher Halbert
-  - Credit Squad  
+  - CRDT
 
 Mobile Product Owner: Christy Ubellacker
 
@@ -17,7 +18,7 @@ bas = Bank Account Services
 pcy = plant your change
 pcyfa = plant your change for all
 ace = Aspiration Customer Experience, aka the Customer Support team
-bsb = ???
+bsb = Credit Card Company
 bpo = banking payments and ops
 as = Acquisition Squad
 os = onboarding squad

@@ -36,4 +36,5 @@
 ### Deeplinks
 ```adb shell am start -W -a android.intent.action.VIEW -d  "https://deeplink.alpha.aspiration.com/a/click?_t=0d8a640734094f8a908fdd9a1723d327&_m=AbEA8NNmLSMuVppGCZuauWrvD4mFJgSz&_e=Id6uj2anxugNRuvfNTFBMGiUM_-PAAGHSenG6BbCjCrwOzeZP2JDXBkqzP1f9IoVPTHe0H2wYV6fdRL-E-ITlSp7PrKHGpHVJ07LrFbiuLmJsaXfcUMcazDJxWN1y6CWxjUCHFjRZLNW2uWaeVErhv1W_0t2uCJYUm2TacGW6ODNbb5CrGuNOyEOdQYdchSiuKUcLCQCiaOlxG-W6pbrD91kwC40rHhMUdZWBbvza7GSIgY0BUkEDCPTr46Pin9orZwtHhO7A3pwH65YCPHnT8bW7U-mqfes2xQXKjWcJGmKNT1s8Dx5BSRifpq_jB9VfdUQkb_Tk95wSq27D5-bOUtFQMziPgQtx1Opn7olriDDcafhUJPvyent8bQOgdc1DuIBvMmm0MQzJwTbLoJHZA%3D%3D"```
 
-
+### Fire a screen
+```adb shell am start -a com.aspiration.native_application.clean_arch.presentation.dev.DebugToolsScreen```
