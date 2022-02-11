@@ -32,3 +32,11 @@ fis: credit card
 - squad2: account management for credit card - POC: solution owner Beatrice Liu
 - squad3: transaction + reward
 - squad4: data/nalytics/alert 
+
+
+## Belsien
+- Api error format 
+
+
+SagariKa1201&
+skeskar@aspiration.com
